@@ -8,6 +8,9 @@ __This IaC provisioning two identical environments :__
 __*Staging and Production*__
 
 Project environment:
+![week-6-envs](https://user-images.githubusercontent.com/90269123/138599669-1a2ac0cb-9e71-4100-a3a7-eb1d9d0c2afa.jpg)
+
+
 
 
 
