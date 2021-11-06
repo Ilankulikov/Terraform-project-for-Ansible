@@ -6,8 +6,8 @@ __In this project I have created an infrastructures to deploy the Weight Tracker
 
 For the project I used another virtual machine(master vm) in another resource group, this machine has access to all nodes(remote machines) through SSH which is only open for this specific machine.
 
-__*You can find the Ansible project [here](https://github.com/Ilankulikov/Week_6_Ansible).*__ 
- 
+__*You can find the Ansible project  <a href="https://github.com/Ilankulikov/Week_6_Ansible" target="_blank">here</a>.*__ 
+
 
 __This IaC provisioning two identical environments :__
 __*Staging and Production*__
