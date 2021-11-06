@@ -68,7 +68,7 @@ resource "azurerm_network_security_rule" "nsg_rule_8080" {
   source_port_range           = "*"
   destination_port_range      = 8080
   source_address_prefix       = "*"
-  destination_address_prefix  = azurerm_public_ip.ip.ip_address
+  destination_address_prefix  = "*"
   resource_group_name         = azurerm_resource_group.rg.name
   network_security_group_name = azurerm_network_security_group.nsg.name
 }
