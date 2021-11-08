@@ -1,4 +1,4 @@
-### Week 6 Project
+## Week 6 Project
 
 # Configuration Management with Ansible
 
